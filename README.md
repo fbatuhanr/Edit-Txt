@@ -9,5 +9,8 @@
 
 ###### Developed by Batuhan Ozturk
 
-<iframe src="https://www.edittxt.com/" width="100%" style="height:100vh; border-radius: 3px; border:3px dashed #dcdcdc;">
-</iframe>
+![edittxt com-homapage](https://user-images.githubusercontent.com/34348780/147569711-f1742061-7129-478b-a04c-21cf32c9652e.jpg)
+<br/>
+![edittxt com-splitfiles](https://user-images.githubusercontent.com/34348780/147569707-3307e21f-db90-4965-af29-de433ce4650a.jpg)
+<br/>
+![edittxt com-mergefiles](https://user-images.githubusercontent.com/34348780/147569709-d2fd47ae-5870-48f4-93b3-acc90ab2e5b8.jpg)
