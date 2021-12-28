@@ -1,5 +1,5 @@
 # Edit TXT
-## edittxt.com
+## <a href="https://www.edittxt.com/" target="_blank">edittxt.com</a>
 
 ### Welcome to Edittxt.com 👋
 
