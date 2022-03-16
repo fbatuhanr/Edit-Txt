@@ -1,7 +1,7 @@
 # Edit TXT
-## <a href="https://www.edittxt.com/" target="_blank">edittxt.com</a>
+## <a href="https://www.edittxt.batuhanozturk.com/" target="_blank">edittxt.com</a>
 
-### Welcome to Edittxt.com 👋
+### Welcome to Edit TXT 👋
 
 #### "Edit Txt" is the easiest and fastest online way for the editing your text files.
 
